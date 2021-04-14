@@ -1,0 +1,21 @@
+h1{
+    color:blue;
+    margin-left: 300px;
+    
+}
+img{
+    margin-left: 400px
+    
+}
+body{
+background-image: url(maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: 150em;
+
+}
+p{
+    color: white;
+    font-size: 20px;
+    
+        
+}
